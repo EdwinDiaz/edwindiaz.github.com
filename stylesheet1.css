@@ -1,0 +1,17 @@
+body
+{
+background-color:#99c4fe;
+text-align:justify;
+}
+h2 {text-decoration:underline;}
+.one
+{
+border-style:solid;
+border-color:red;
+}
+.two
+{
+border-style:solid;
+border-color:#98bf21;
+}
+.a {font-style:italic;}
