@@ -3,11 +3,14 @@ body
 background-color:#99c4fe;
 text-align:justify;
 }
-h2 {text-decoration:underline;}
+h2 {
+text-decoration:underline;
+}
 .one
 {
+border-width:5px;
 border-style:solid;
-border-color:red;
+border-color:blue;
 }
 .two
 {
@@ -15,5 +18,3 @@ border-style:solid;
 border-color:#98bf21;
 }
 .a {font-style:italic;}
-
-.hid{visibility:hidden;}
