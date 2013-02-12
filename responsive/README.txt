@@ -1,0 +1,1 @@
+In this lab, different css files were used to style an html file based on whether it was being displayed on a laptop or mobile device. The mobile device used was a 480x800 pixel HTC EVO phone. I received syntax help from Nicholas Davis, specifically with <meta>. This lab took about a half an hour to accomplish.
